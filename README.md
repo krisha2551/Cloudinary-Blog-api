@@ -121,49 +121,58 @@ Use:
 
 ### 🟢 Server Running
 
-![Server Running](./screenshots/server.png)
+<img width="1919" height="1018" alt="Screenshot 2026-03-29 171343" src="https://github.com/user-attachments/assets/19adf49d-f809-479d-ac1a-404e19254c4a" />
+
+
 
 <br>
 
 ### 🟡 Create Blog API
 
-![Create Blog](./screenshots/create-blog.png)
+<img width="1915" height="1023" alt="Screenshot 2026-03-29 171408" src="https://github.com/user-attachments/assets/b9ceb47d-9f7e-4317-8b0d-f18151bb55fd" />
+
 
 <br>
 
 ### 🔵 Get All Blogs
 
-![Get All Blogs](./screenshots/get-all-blogs.png)
+
+<img width="1919" height="1021" alt="Screenshot 2026-03-29 171431" src="https://github.com/user-attachments/assets/23831392-b859-49f9-a2aa-c6dde6fb1519" />
 
 <br>
 
 ### 🟣 Get Single Blog
 
-![Get Single Blog](./screenshots/get-single-blog.png)
+
+<img width="1915" height="1019" alt="Screenshot 2026-03-29 171456" src="https://github.com/user-attachments/assets/aa2e9791-1a0c-4caa-837b-ac7763fd46fc" />
 
 <br>
 
 ### 🟠 Update Blog
 
-![Update Blog](./screenshots/update-blog.png)
+
+<img width="1916" height="1018" alt="Screenshot 2026-03-29 171521" src="https://github.com/user-attachments/assets/5f97c76b-66c2-439a-9979-eb9c9cc6ffe0" />
 
 <br>
 
 ### 🔴 Delete Blog
 
-![Delete Blog](./screenshots/delete-blog.png)
+
+<img width="1917" height="1018" alt="Screenshot 2026-03-29 171535" src="https://github.com/user-attachments/assets/cad3e974-5b17-4a34-b49a-480665003ac6" />
 
 <br>
 
 ### ☁️ Cloudinary Storage
 
-![Cloudinary](./screenshots/cloudinary.png)
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/bc57afd1-4bfe-4002-9e33-d9d341aba23d" />
+
 
 <br>
 
 ### 🗄️ MongoDB Database
 
-![MongoDB](./screenshots/mongodb.png)
+<img width="1920" height="2630" alt="image" src="https://github.com/user-attachments/assets/78ec4bc3-bd31-44ad-973c-cd4e97676bca" />
+
 
 
 
