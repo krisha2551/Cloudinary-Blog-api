@@ -73,7 +73,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 ## ▶️ Run Server
 
 ```bash
-npm start
+npm run dev
 ```
 
 Server will run on:
